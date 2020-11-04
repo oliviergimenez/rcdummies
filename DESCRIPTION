@@ -1,0 +1,17 @@
+Package: rcdummies
+Title: Analyse lynx collisions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Olivier",
+           family = "Gimenez",
+           role = c("aut", "cre"),
+           email = "olivier.gimenez@cefe.cnrs.fr")
+Description: Does amazing analyses.
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    tidyverse
