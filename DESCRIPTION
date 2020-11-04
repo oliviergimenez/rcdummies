@@ -1,7 +1,7 @@
 Package: rcdummies
 Title: Analyse lynx collisions
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person(given = "Olivier",
            family = "Gimenez",
            role = c("aut", "cre"),
@@ -13,5 +13,9 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-Imports: 
-    tidyverse
+Imports:
+    tidyverse,
+    bookdown,
+    here
+Suggests: devtools,
+    git2r
