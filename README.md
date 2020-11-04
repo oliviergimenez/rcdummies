@@ -44,7 +44,8 @@ Docker images to ensure a consistent and reproducible computational
 environment. These Docker images can also be used locally.
 
 You can download the compendium as a zip from from this URL:
-[master.zip](/archive/master.zip). After unzipping:
+[master.zip](https://github.com/oliviergimenez/rcdummies/archive/master.zip).
+After unzipping:
 
   - open the `.Rproj` file in RStudio
 
